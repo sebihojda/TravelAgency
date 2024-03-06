@@ -1,0 +1,6 @@
+2,OfertaCraciun,Borsa,Exclusive,1700
+5,OfertaVara,Cluj,Idk,9999
+4,OfertaAugust,Maramures,AllInclusive,1000
+3,Oferta1Mai,Viseu,5Stars,1200
+6,Oferta,Idk,Nou,1000
+1,OfertaPaste,Moisei,AllInclusive,2000
