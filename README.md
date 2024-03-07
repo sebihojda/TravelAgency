@@ -1,4 +1,4 @@
-# C++ Semester Project
+# TravelAgency - C++ Semester Project
 
 This repository contains the source code for a C++ semester project focused on object-oriented programming principles and GUI development. The project demonstrates the application of various C++ concepts and utilizes the Qt framework to create a user-friendly interface.
 
